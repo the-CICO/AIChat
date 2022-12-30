@@ -1,7 +1,6 @@
 # Bot Whatsapp
 # [Watch it on YouTube](https://www.youtube.com/watch?v=p0g8qAFgOLA)
 
-![Preview](/demo/demo1.jpeg)
 
 ## Available Scripts
 
